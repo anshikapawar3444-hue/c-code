@@ -1,2 +1,2 @@
 # c-Love
-My first c code
+c code
